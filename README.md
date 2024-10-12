@@ -32,9 +32,7 @@ This landing page serves as the front page of a learning platform that provides 
 
 ## Screenshots
 ### Landing Page Overview
-![Screenshot 2024-10-12 182644](https://github.com/user-attachments/assets/0463052b-3701-4959-8c1f-0fe6df5be5f3)
-![Screenshot 2024-10-12 183109](https://github.com/user-attachments/assets/155cf29e-559c-4669-b925-5edb307014a6)
-![Screenshot 2024-10-12 183014](https://github.com/user-attachments/assets/c1225ce0-84c8-4d44-a48a-943c4d0ff65a)
-![Screenshot 2024-10-12 183034](https://github.com/user-attachments/assets/a7a4b41e-c4d5-40c0-b6ac-1c69c4dc7181)
-![Screenshot 2024-10-12 182709](https://github.com/user-attachments/assets/9c685311-1427-4e5f-a720-4a3d8c751ce7)
+![Screenshot 2024-10-12 183615](https://github.com/user-attachments/assets/bf2cdada-2e2e-4e95-a759-36bdf4e6b9e2)
+![Screenshot 2024-10-12 183627](https://github.com/user-attachments/assets/90db1b38-e6bd-4ffb-b91f-1d733acc237e)
+
 
